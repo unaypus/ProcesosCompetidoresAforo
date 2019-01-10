@@ -1,0 +1,4857 @@
+
+Preparando  Acceso  1
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  1
+
+Iniciado    Acceso  1
+
+Preparando  Acceso  2
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  2
+
+Iniciado    Acceso  2
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 0 entradas : 0 salidas : 0 Acciones : 0
+
+Preparando  Acceso  3
+
+Preparando  Acceso  4
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  3
+
+Iniciado    Acceso  3
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  4
+
+Iniciado    Acceso  4
+
+Preparando  Acceso  6
+
+Preparando  Acceso  5
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  6
+
+Iniciado    Acceso  6
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  5
+
+Iniciado    Acceso  5
+
+Preparando  Acceso  7
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  7
+
+Iniciado    Acceso  7
+
+Preparando  Acceso  9
+
+Preparando  Acceso 10
+
+Preparando  Acceso  8
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso 10
+
+Creado      Acceso  9
+
+Iniciado    Acceso 10
+
+Iniciado    Acceso  9
+
+ <  > ABIERTO
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Creado      Acceso  8
+
+Iniciado    Acceso  8
+
+_______________________________________________________________________________________________________________
+
+                              Apertura Registro del Aforo del I.E.S. El Rincón                                 
+
+                     Hora   :   Wed Jan 09 14:29:18 WET 2019
+_______________________________________________________________________________________________________________
+
+Total entradas      : 0
+Total salidas       : 0
+Total aforo         : 0
+Acciones a realizar : 200
+Acciones realizadas : 0
+_______________________________________________________________________________________________________________
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     1
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 1 entradas : 1 salidas : 0 Acciones : 1
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 1 entradas : 1 salidas : 0 Acciones : 1
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 2 entradas : 2 salidas : 0 Acciones : 2
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 2 entradas : 2 salidas : 0 Acciones : 2
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 3 entradas : 3 salidas : 0 Acciones : 3
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 3 entradas : 3 salidas : 0 Acciones : 3
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 4 entradas : 4 salidas : 0 Acciones : 4
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 4 entradas : 4 salidas : 0 Acciones : 4
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 5 entradas : 5 salidas : 0 Acciones : 5
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 5 entradas : 5 salidas : 0 Acciones : 5
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 6 entradas : 6 salidas : 0 Acciones : 6
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 6 entradas : 6 salidas : 0 Acciones : 6
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 7 entradas : 7 salidas : 0 Acciones : 7
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 7 entradas : 7 salidas : 0 Acciones : 7
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 8 entradas : 8 salidas : 0 Acciones : 8
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 8 entradas : 8 salidas : 0 Acciones : 8
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:19 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 7 entradas : 8 salidas : 1 Acciones : 9
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 7 entradas : 8 salidas : 1 Acciones : 9
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 6 entradas : 8 salidas : 2 Acciones : 10
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 6 entradas : 8 salidas : 2 Acciones : 10
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 5 entradas : 8 salidas : 3 Acciones : 11
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 5 entradas : 8 salidas : 3 Acciones : 11
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 4 entradas : 8 salidas : 4 Acciones : 12
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 4 entradas : 8 salidas : 4 Acciones : 12
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 3 entradas : 8 salidas : 5 Acciones : 13
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 3 entradas : 8 salidas : 5 Acciones : 13
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 9 salidas : 5 Acciones : 14
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 4 entradas : 9 salidas : 5 Acciones : 14
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 5 entradas : 10 salidas : 5 Acciones : 15
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 5 entradas : 10 salidas : 5 Acciones : 15
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 4 entradas : 10 salidas : 6 Acciones : 16
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 10 salidas : 6 Acciones : 16
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 10 salidas : 7 Acciones : 17
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 3 entradas : 10 salidas : 7 Acciones : 17
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 11 salidas : 7 Acciones : 18
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 4 entradas : 11 salidas : 7 Acciones : 18
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 5 entradas : 12 salidas : 7 Acciones : 19
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 5 entradas : 12 salidas : 7 Acciones : 19
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+ <  > ABIERTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 6 entradas : 13 salidas : 7 Acciones : 20
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 6 entradas : 13 salidas : 7 Acciones : 20
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 7 entradas : 14 salidas : 7 Acciones : 21
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 7 entradas : 14 salidas : 7 Acciones : 21
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 6 entradas : 14 salidas : 8 Acciones : 22
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 6 entradas : 14 salidas : 8 Acciones : 22
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 5 entradas : 14 salidas : 9 Acciones : 23
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 5 entradas : 14 salidas : 9 Acciones : 23
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 4 entradas : 14 salidas : 10 Acciones : 24
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 4 entradas : 14 salidas : 10 Acciones : 24
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 5 entradas : 15 salidas : 10 Acciones : 25
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 15 salidas : 10 Acciones : 25
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 15 salidas : 11 Acciones : 26
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 15 salidas : 11 Acciones : 26
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 15 salidas : 12 Acciones : 27
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 3 entradas : 15 salidas : 12 Acciones : 27
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 4 entradas : 16 salidas : 12 Acciones : 28
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 4 entradas : 16 salidas : 12 Acciones : 28
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 5 entradas : 17 salidas : 12 Acciones : 29
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 5 entradas : 17 salidas : 12 Acciones : 29
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 4 entradas : 17 salidas : 13 Acciones : 30
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 4 entradas : 17 salidas : 13 Acciones : 30
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 3 entradas : 17 salidas : 14 Acciones : 31
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 3 entradas : 17 salidas : 14 Acciones : 31
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 2 entradas : 17 salidas : 15 Acciones : 32
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 2 entradas : 17 salidas : 15 Acciones : 32
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 3 entradas : 18 salidas : 15 Acciones : 33
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 3 entradas : 18 salidas : 15 Acciones : 33
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 4 entradas : 19 salidas : 15 Acciones : 34
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 4 entradas : 19 salidas : 15 Acciones : 34
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 3 entradas : 19 salidas : 16 Acciones : 35
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 3 entradas : 19 salidas : 16 Acciones : 35
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 4 entradas : 20 salidas : 16 Acciones : 36
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 4 entradas : 20 salidas : 16 Acciones : 36
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 3 entradas : 20 salidas : 17 Acciones : 37
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 3 entradas : 20 salidas : 17 Acciones : 37
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 4 entradas : 21 salidas : 17 Acciones : 38
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 4 entradas : 21 salidas : 17 Acciones : 38
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 22 salidas : 17 Acciones : 39
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 5 entradas : 22 salidas : 17 Acciones : 39
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 4 entradas : 22 salidas : 18 Acciones : 40
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 4 entradas : 22 salidas : 18 Acciones : 40
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 5 entradas : 23 salidas : 18 Acciones : 41
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 5 entradas : 23 salidas : 18 Acciones : 41
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 4 entradas : 23 salidas : 19 Acciones : 42
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 4 entradas : 23 salidas : 19 Acciones : 42
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 3 entradas : 23 salidas : 20 Acciones : 43
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 3 entradas : 23 salidas : 20 Acciones : 43
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 4 entradas : 24 salidas : 20 Acciones : 44
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 4 entradas : 24 salidas : 20 Acciones : 44
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 5 entradas : 25 salidas : 20 Acciones : 45
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 5 entradas : 25 salidas : 20 Acciones : 45
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 6 entradas : 26 salidas : 20 Acciones : 46
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 6 entradas : 26 salidas : 20 Acciones : 46
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 26 salidas : 21 Acciones : 47
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 5 entradas : 26 salidas : 21 Acciones : 47
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 4 entradas : 26 salidas : 22 Acciones : 48
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 4 entradas : 26 salidas : 22 Acciones : 48
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 3 entradas : 26 salidas : 23 Acciones : 49
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 3 entradas : 26 salidas : 23 Acciones : 49
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 2 entradas : 26 salidas : 24 Acciones : 50
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 2 entradas : 26 salidas : 24 Acciones : 50
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:20 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 3 entradas : 27 salidas : 24 Acciones : 51
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 3 entradas : 27 salidas : 24 Acciones : 51
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 4 entradas : 28 salidas : 24 Acciones : 52
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 4 entradas : 28 salidas : 24 Acciones : 52
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 5 entradas : 29 salidas : 24 Acciones : 53
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 29 salidas : 24 Acciones : 53
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 6 entradas : 30 salidas : 24 Acciones : 54
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 6 entradas : 30 salidas : 24 Acciones : 54
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 5 entradas : 30 salidas : 25 Acciones : 55
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 5 entradas : 30 salidas : 25 Acciones : 55
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 4 entradas : 30 salidas : 26 Acciones : 56
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 4 entradas : 30 salidas : 26 Acciones : 56
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 3 entradas : 30 salidas : 27 Acciones : 57
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 3 entradas : 30 salidas : 27 Acciones : 57
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 2 entradas : 30 salidas : 28 Acciones : 58
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 2 entradas : 30 salidas : 28 Acciones : 58
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 1 entradas : 30 salidas : 29 Acciones : 59
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 1 entradas : 30 salidas : 29 Acciones : 59
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     0
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 0 entradas : 30 salidas : 30 Acciones : 60
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 0 entradas : 30 salidas : 30 Acciones : 60
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 0 entradas : 30 salidas : 30 Acciones : 60
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 0 entradas : 30 salidas : 30 Acciones : 60
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 1 entradas : 31 salidas : 30 Acciones : 61
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 1 entradas : 31 salidas : 30 Acciones : 61
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 2 entradas : 32 salidas : 30 Acciones : 62
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 2 entradas : 32 salidas : 30 Acciones : 62
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 33 salidas : 30 Acciones : 63
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 3 entradas : 33 salidas : 30 Acciones : 63
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 34 salidas : 30 Acciones : 64
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 4 entradas : 34 salidas : 30 Acciones : 64
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 5 entradas : 35 salidas : 30 Acciones : 65
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 35 salidas : 30 Acciones : 65
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 6 entradas : 36 salidas : 30 Acciones : 66
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 6 entradas : 36 salidas : 30 Acciones : 66
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 5 entradas : 36 salidas : 31 Acciones : 67
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 5 entradas : 36 salidas : 31 Acciones : 67
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 36 salidas : 32 Acciones : 68
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 4 entradas : 36 salidas : 32 Acciones : 68
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 3 entradas : 36 salidas : 33 Acciones : 69
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 3 entradas : 36 salidas : 33 Acciones : 69
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 37 salidas : 33 Acciones : 70
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 4 entradas : 37 salidas : 33 Acciones : 70
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 5 entradas : 38 salidas : 33 Acciones : 71
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 5 entradas : 38 salidas : 33 Acciones : 71
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 6 entradas : 39 salidas : 33 Acciones : 72
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 6 entradas : 39 salidas : 33 Acciones : 72
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 5 entradas : 39 salidas : 34 Acciones : 73
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 5 entradas : 39 salidas : 34 Acciones : 73
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 39 salidas : 35 Acciones : 74
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 39 salidas : 35 Acciones : 74
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 39 salidas : 36 Acciones : 75
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 3 entradas : 39 salidas : 36 Acciones : 75
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 2 entradas : 39 salidas : 37 Acciones : 76
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 2 entradas : 39 salidas : 37 Acciones : 76
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 1 entradas : 39 salidas : 38 Acciones : 77
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 1 entradas : 39 salidas : 38 Acciones : 77
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 2 entradas : 40 salidas : 38 Acciones : 78
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 2 entradas : 40 salidas : 38 Acciones : 78
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 3 entradas : 41 salidas : 38 Acciones : 79
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 3 entradas : 41 salidas : 38 Acciones : 79
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 4 entradas : 42 salidas : 38 Acciones : 80
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 4 entradas : 42 salidas : 38 Acciones : 80
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 5 entradas : 43 salidas : 38 Acciones : 81
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 5 entradas : 43 salidas : 38 Acciones : 81
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 4 entradas : 43 salidas : 39 Acciones : 82
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 4 entradas : 43 salidas : 39 Acciones : 82
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 5 entradas : 44 salidas : 39 Acciones : 83
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 44 salidas : 39 Acciones : 83
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 44 salidas : 40 Acciones : 84
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 4 entradas : 44 salidas : 40 Acciones : 84
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 3 entradas : 44 salidas : 41 Acciones : 85
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 3 entradas : 44 salidas : 41 Acciones : 85
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 2 entradas : 44 salidas : 42 Acciones : 86
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 2 entradas : 44 salidas : 42 Acciones : 86
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 1 entradas : 44 salidas : 43 Acciones : 87
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 1 entradas : 44 salidas : 43 Acciones : 87
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     0
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 0 entradas : 44 salidas : 44 Acciones : 88
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 0 entradas : 44 salidas : 44 Acciones : 88
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 1 entradas : 45 salidas : 44 Acciones : 89
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 1 entradas : 45 salidas : 44 Acciones : 89
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 2 entradas : 46 salidas : 44 Acciones : 90
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 2 entradas : 46 salidas : 44 Acciones : 90
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 1 entradas : 46 salidas : 45 Acciones : 91
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 1 entradas : 46 salidas : 45 Acciones : 91
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     0
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 0 entradas : 46 salidas : 46 Acciones : 92
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 0 entradas : 46 salidas : 46 Acciones : 92
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     1
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 1 entradas : 47 salidas : 46 Acciones : 93
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 1 entradas : 47 salidas : 46 Acciones : 93
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 2 entradas : 48 salidas : 46 Acciones : 94
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 2 entradas : 48 salidas : 46 Acciones : 94
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 3 entradas : 49 salidas : 46 Acciones : 95
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 3 entradas : 49 salidas : 46 Acciones : 95
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 4 entradas : 50 salidas : 46 Acciones : 96
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 4 entradas : 50 salidas : 46 Acciones : 96
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 5 entradas : 51 salidas : 46 Acciones : 97
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 51 salidas : 46 Acciones : 97
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 51 salidas : 47 Acciones : 98
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 4 entradas : 51 salidas : 47 Acciones : 98
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 5 entradas : 52 salidas : 47 Acciones : 99
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 5 entradas : 52 salidas : 47 Acciones : 99
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 4 entradas : 52 salidas : 48 Acciones : 100
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 4 entradas : 52 salidas : 48 Acciones : 100
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 3 entradas : 52 salidas : 49 Acciones : 101
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 3 entradas : 52 salidas : 49 Acciones : 101
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 4 entradas : 53 salidas : 49 Acciones : 102
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 4 entradas : 53 salidas : 49 Acciones : 102
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:21 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 3 entradas : 53 salidas : 50 Acciones : 103
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 3 entradas : 53 salidas : 50 Acciones : 103
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 2 entradas : 53 salidas : 51 Acciones : 104
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 2 entradas : 53 salidas : 51 Acciones : 104
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 54 salidas : 51 Acciones : 105
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 3 entradas : 54 salidas : 51 Acciones : 105
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 2 entradas : 54 salidas : 52 Acciones : 106
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 2 entradas : 54 salidas : 52 Acciones : 106
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 1 entradas : 54 salidas : 53 Acciones : 107
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 1 entradas : 54 salidas : 53 Acciones : 107
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 2 entradas : 55 salidas : 53 Acciones : 108
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 2 entradas : 55 salidas : 53 Acciones : 108
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 1 entradas : 55 salidas : 54 Acciones : 109
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 1 entradas : 55 salidas : 54 Acciones : 109
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     2
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 2 entradas : 56 salidas : 54 Acciones : 110
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 2 entradas : 56 salidas : 54 Acciones : 110
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 3 entradas : 57 salidas : 54 Acciones : 111
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 3 entradas : 57 salidas : 54 Acciones : 111
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 4 entradas : 58 salidas : 54 Acciones : 112
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 4 entradas : 58 salidas : 54 Acciones : 112
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 5 entradas : 59 salidas : 54 Acciones : 113
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 5 entradas : 59 salidas : 54 Acciones : 113
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 4 entradas : 59 salidas : 55 Acciones : 114
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 59 salidas : 55 Acciones : 114
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 5 entradas : 60 salidas : 55 Acciones : 115
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 60 salidas : 55 Acciones : 115
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 60 salidas : 56 Acciones : 116
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 4 entradas : 60 salidas : 56 Acciones : 116
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 5 entradas : 61 salidas : 56 Acciones : 117
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 5 entradas : 61 salidas : 56 Acciones : 117
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 6 entradas : 62 salidas : 56 Acciones : 118
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 6 entradas : 62 salidas : 56 Acciones : 118
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 5 entradas : 62 salidas : 57 Acciones : 119
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 5 entradas : 62 salidas : 57 Acciones : 119
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 4 entradas : 62 salidas : 58 Acciones : 120
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 62 salidas : 58 Acciones : 120
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 3 entradas : 62 salidas : 59 Acciones : 121
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 3 entradas : 62 salidas : 59 Acciones : 121
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 2 entradas : 62 salidas : 60 Acciones : 122
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 2 entradas : 62 salidas : 60 Acciones : 122
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     3
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 3 entradas : 63 salidas : 60 Acciones : 123
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 3 entradas : 63 salidas : 60 Acciones : 123
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 64 salidas : 60 Acciones : 124
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 4 entradas : 64 salidas : 60 Acciones : 124
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 65 salidas : 60 Acciones : 125
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 5 entradas : 65 salidas : 60 Acciones : 125
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 4 entradas : 65 salidas : 61 Acciones : 126
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 4 entradas : 65 salidas : 61 Acciones : 126
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 5 entradas : 66 salidas : 61 Acciones : 127
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 5 entradas : 66 salidas : 61 Acciones : 127
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 6 entradas : 67 salidas : 61 Acciones : 128
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 6 entradas : 67 salidas : 61 Acciones : 128
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 7 entradas : 68 salidas : 61 Acciones : 129
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 7 entradas : 68 salidas : 61 Acciones : 129
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 6 entradas : 68 salidas : 62 Acciones : 130
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 6 entradas : 68 salidas : 62 Acciones : 130
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 7 entradas : 69 salidas : 62 Acciones : 131
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 7 entradas : 69 salidas : 62 Acciones : 131
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 6 entradas : 69 salidas : 63 Acciones : 132
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 6 entradas : 69 salidas : 63 Acciones : 132
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 69 salidas : 64 Acciones : 133
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 69 salidas : 64 Acciones : 133
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 6 entradas : 70 salidas : 64 Acciones : 134
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 6 entradas : 70 salidas : 64 Acciones : 134
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 7 entradas : 71 salidas : 64 Acciones : 135
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 7 entradas : 71 salidas : 64 Acciones : 135
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 8 entradas : 72 salidas : 64 Acciones : 136
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 8 entradas : 72 salidas : 64 Acciones : 136
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 7 entradas : 72 salidas : 65 Acciones : 137
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 7 entradas : 72 salidas : 65 Acciones : 137
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 8 entradas : 73 salidas : 65 Acciones : 138
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 8 entradas : 73 salidas : 65 Acciones : 138
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 7 entradas : 73 salidas : 66 Acciones : 139
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 7 entradas : 73 salidas : 66 Acciones : 139
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 6 entradas : 73 salidas : 67 Acciones : 140
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 6 entradas : 73 salidas : 67 Acciones : 140
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 7 entradas : 74 salidas : 67 Acciones : 141
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 7 entradas : 74 salidas : 67 Acciones : 141
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 6 entradas : 74 salidas : 68 Acciones : 142
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 6 entradas : 74 salidas : 68 Acciones : 142
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 5 entradas : 74 salidas : 69 Acciones : 143
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 5 entradas : 74 salidas : 69 Acciones : 143
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 6 entradas : 75 salidas : 69 Acciones : 144
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 6 entradas : 75 salidas : 69 Acciones : 144
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 5 entradas : 75 salidas : 70 Acciones : 145
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 5 entradas : 75 salidas : 70 Acciones : 145
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 6 entradas : 76 salidas : 70 Acciones : 146
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 6 entradas : 76 salidas : 70 Acciones : 146
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 76 salidas : 71 Acciones : 147
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 76 salidas : 71 Acciones : 147
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 76 salidas : 72 Acciones : 148
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 4 entradas : 76 salidas : 72 Acciones : 148
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     5
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 5 entradas : 77 salidas : 72 Acciones : 149
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 5 entradas : 77 salidas : 72 Acciones : 149
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 6 entradas : 78 salidas : 72 Acciones : 150
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 6 entradas : 78 salidas : 72 Acciones : 150
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 7 entradas : 79 salidas : 72 Acciones : 151
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 7 entradas : 79 salidas : 72 Acciones : 151
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 8 entradas : 80 salidas : 72 Acciones : 152
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 8 entradas : 80 salidas : 72 Acciones : 152
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 9 entradas : 81 salidas : 72 Acciones : 153
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 9 entradas : 81 salidas : 72 Acciones : 153
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 8 entradas : 81 salidas : 73 Acciones : 154
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 8 entradas : 81 salidas : 73 Acciones : 154
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 9 entradas : 82 salidas : 73 Acciones : 155
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 9 entradas : 82 salidas : 73 Acciones : 155
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 8 entradas : 82 salidas : 74 Acciones : 156
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 8 entradas : 82 salidas : 74 Acciones : 156
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 9 entradas : 83 salidas : 74 Acciones : 157
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 9 entradas : 83 salidas : 74 Acciones : 157
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 10 entradas : 84 salidas : 74 Acciones : 158
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 10 entradas : 84 salidas : 74 Acciones : 158
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 9 entradas : 84 salidas : 75 Acciones : 159
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 9 entradas : 84 salidas : 75 Acciones : 159
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:22 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 8 entradas : 84 salidas : 76 Acciones : 160
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 8 entradas : 84 salidas : 76 Acciones : 160
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso 10 Doble - E/S     .   aforo : 9 entradas : 85 salidas : 76 Acciones : 161
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 9 entradas : 85 salidas : 76 Acciones : 161
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  4 Doble - E/S     .   aforo : 8 entradas : 85 salidas : 77 Acciones : 162
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 8 entradas : 85 salidas : 77 Acciones : 162
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 7 entradas : 85 salidas : 78 Acciones : 163
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 7 entradas : 85 salidas : 78 Acciones : 163
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 8 entradas : 86 salidas : 78 Acciones : 164
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 8 entradas : 86 salidas : 78 Acciones : 164
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 7 entradas : 86 salidas : 79 Acciones : 165
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 7 entradas : 86 salidas : 79 Acciones : 165
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 6 entradas : 86 salidas : 80 Acciones : 166
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 6 entradas : 86 salidas : 80 Acciones : 166
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 5 entradas : 86 salidas : 81 Acciones : 167
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 5 entradas : 86 salidas : 81 Acciones : 167
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     6
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 6 entradas : 87 salidas : 81 Acciones : 168
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 6 entradas : 87 salidas : 81 Acciones : 168
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 7 entradas : 88 salidas : 81 Acciones : 169
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 7 entradas : 88 salidas : 81 Acciones : 169
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 6 entradas : 88 salidas : 82 Acciones : 170
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 6 entradas : 88 salidas : 82 Acciones : 170
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 7 entradas : 89 salidas : 82 Acciones : 171
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 7 entradas : 89 salidas : 82 Acciones : 171
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 8 entradas : 90 salidas : 82 Acciones : 172
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  aforo : 8 entradas : 90 salidas : 82 Acciones : 172
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  8 Doble - E/S     .   aforo : 9 entradas : 91 salidas : 82 Acciones : 173
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 9 entradas : 91 salidas : 82 Acciones : 173
+
+      FINALIZADO
+Entrada <<== <:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  4 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  4 Doble - E/S     .   aforo : 10 entradas : 92 salidas : 82 Acciones : 174
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 10 entradas : 92 salidas : 82 Acciones : 174
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 9 entradas : 92 salidas : 83 Acciones : 175
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 9 entradas : 92 salidas : 83 Acciones : 175
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  1 Doble - E/S     .   aforo : 10 entradas : 93 salidas : 83 Acciones : 176
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 10 entradas : 93 salidas : 83 Acciones : 176
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 9 entradas : 93 salidas : 84 Acciones : 177
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 9 entradas : 93 salidas : 84 Acciones : 177
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 10 entradas : 94 salidas : 84 Acciones : 178
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 10 entradas : 94 salidas : 84 Acciones : 178
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 9 entradas : 94 salidas : 85 Acciones : 179
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 9 entradas : 94 salidas : 85 Acciones : 179
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  3 Doble - E/S     .   aforo : 10 entradas : 95 salidas : 85 Acciones : 180
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 10 entradas : 95 salidas : 85 Acciones : 180
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 9 entradas : 95 salidas : 86 Acciones : 181
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 9 entradas : 95 salidas : 86 Acciones : 181
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 8 entradas : 95 salidas : 87 Acciones : 182
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 8 entradas : 95 salidas : 87 Acciones : 182
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 7 entradas : 95 salidas : 88 Acciones : 183
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 7 entradas : 95 salidas : 88 Acciones : 183
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 6 entradas : 95 salidas : 89 Acciones : 184
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 6 entradas : 95 salidas : 89 Acciones : 184
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Entrada <<== <:   Acceso  5 Doble - E/S     .   aforo : 7 entradas : 96 salidas : 89 Acciones : 185
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 7 entradas : 96 salidas : 89 Acciones : 185
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Entrada <<== <:   Acceso  7 Doble - E/S     .   aforo : 8 entradas : 97 salidas : 89 Acciones : 186
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  aforo : 8 entradas : 97 salidas : 89 Acciones : 186
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  6 Doble - E/S     .   aforo : 9 entradas : 98 salidas : 89 Acciones : 187
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  aforo : 9 entradas : 98 salidas : 89 Acciones : 187
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  5 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  5 Doble - E/S     .   aforo : 8 entradas : 98 salidas : 90 Acciones : 188
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  aforo : 8 entradas : 98 salidas : 90 Acciones : 188
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Entrada <<== <:   Acceso  2 Doble - E/S     .   aforo : 9 entradas : 99 salidas : 90 Acciones : 189
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  aforo : 9 entradas : 99 salidas : 90 Acciones : 189
+
+      FINALIZADO
+Entrada <<== <:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Entrada <<== <:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :    10
+      ESCRITO
+      Entrada <<== <:   Acceso  9 Doble - E/S     .   aforo : 10 entradas : 100 salidas : 90 Acciones : 190
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 10 entradas : 100 salidas : 90 Acciones : 190
+
+      FINALIZADO
+Entrada <<== <:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     9
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 9 entradas : 100 salidas : 91 Acciones : 191
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 9 entradas : 100 salidas : 91 Acciones : 191
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  2 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     8
+      ESCRITO
+      Salida  ==>> >:   Acceso  2 Doble - E/S     .   aforo : 8 entradas : 100 salidas : 92 Acciones : 192
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 8 entradas : 100 salidas : 92 Acciones : 192
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  2 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  6 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     7
+      ESCRITO
+      Salida  ==>> >:   Acceso  6 Doble - E/S     .   aforo : 7 entradas : 100 salidas : 93 Acciones : 193
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  aforo : 7 entradas : 100 salidas : 93 Acciones : 193
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  6 Doble - E/S     . 
+      CONSEGUIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  aforo : 7 entradas : 100 salidas : 93 Acciones : 193
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 7 entradas : 100 salidas : 93 Acciones : 193
+
+  <>  CERRADO
+Entrada <<== <:   Acceso 10 Doble - E/S     . 
+      FINALIZADO
+Entrada <<== <:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     6
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 6 entradas : 100 salidas : 94 Acciones : 194
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 6 entradas : 100 salidas : 94 Acciones : 194
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  9 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  8 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     5
+      ESCRITO
+      Salida  ==>> >:   Acceso  8 Doble - E/S     .   aforo : 5 entradas : 100 salidas : 95 Acciones : 195
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 5 entradas : 100 salidas : 95 Acciones : 195
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  8 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  3 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     4
+      ESCRITO
+      Salida  ==>> >:   Acceso  3 Doble - E/S     .   aforo : 4 entradas : 100 salidas : 96 Acciones : 196
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  aforo : 4 entradas : 100 salidas : 96 Acciones : 196
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  aforo : 4 entradas : 100 salidas : 96 Acciones : 196
+
+      FINALIZADO
+Entrada <<== <:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  3 Doble - E/S     . 
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 4 entradas : 100 salidas : 96 Acciones : 196
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  espera acceder al BUFER
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  9 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     3
+      ESCRITO
+      Salida  ==>> >:   Acceso  9 Doble - E/S     .   aforo : 3 entradas : 100 salidas : 97 Acciones : 197
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  aforo : 3 entradas : 100 salidas : 97 Acciones : 197
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Entrada <<== <:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  espera acceder al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 3 entradas : 100 salidas : 97 Acciones : 197
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  7 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     2
+      ESCRITO
+      Salida  ==>> >:   Acceso  7 Doble - E/S     .   aforo : 2 entradas : 100 salidas : 98 Acciones : 198
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 2 entradas : 100 salidas : 98 Acciones : 198
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  7 Doble - E/S     . 
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso 10 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     1
+      ESCRITO
+      Salida  ==>> >:   Acceso 10 Doble - E/S     .   aforo : 1 entradas : 100 salidas : 99 Acciones : 199
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  aforo : 1 entradas : 100 salidas : 99 Acciones : 199
+
+_______________________________________________________________________________________________________________
+
+      INICIA actualizaBuffer()
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+
+      INTENTO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  espera acceder al BUFER
+
+Salida  ==>> >:   Acceso  1 Doble - E/S     .      Hora    :   Wed Jan 09 14:29:23 WET 2019     Aforo   :     0
+      ESCRITO
+      Salida  ==>> >:   Acceso  1 Doble - E/S     .   aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+_______________________________________________________________________________________________________________
+
+                              Aforo 0 el I.E.S. El Rincón está vacio                                           
+
+                     Hora   :   Wed Jan 09 14:29:23 WET 2019
+_______________________________________________________________________________________________________________
+
+Total entradas      : 100
+Total salidas       : 100
+Total aforo         : 0
+Acciones a realizar : 200
+Acciones realizadas : 200
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Entrada <<== <:   Acceso  1 Doble - E/S     . 
+      LEIDO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  4 Doble - E/S     . 
+  <>  CERRADO
+Entrada <<== <:   Acceso  4 Doble - E/S     . 
+      FINALIZADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  1 Doble - E/S     . 
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  8 Doble - E/S     . 
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Accede al BUFER
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      LEIDO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      CONSEGUIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  7 Doble - E/S     . 
+  <>  CERRADO
+Salida  ==>> >:   Acceso  9 Doble - E/S     . 
+  <>  CERRADO
+Salida  ==>> >:   Acceso  2 Doble - E/S     . 
+      CONSEGUIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      FINALIZADO
+Entrada <<== <:   Acceso  5 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  5 Doble - E/S     . 
+  <>  CERRADO
+Entrada <<== <:   Acceso  5 Doble - E/S     . 
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      FINALIZADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+      CONSEGUIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Accede al BUFER
+
+      LEIDO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  aforo : 0 entradas : 100 salidas : 100 Acciones : 200
+
+      FINALIZADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso 10 Doble - E/S     . 
+      FINALIZADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     .  Libera al BUFER
+_______________________________________________________________________________________________________________
+
+  <>  CERRADO
+Salida  ==>> >:   Acceso  6 Doble - E/S     . 
+  <>  CERRADO
+Salida  ==>> >:   Acceso  3 Doble - E/S     . 
